@@ -1,5 +1,5 @@
 
-precoProduto = float(input("Digite o preço do produto: R$ ").strip())
+precoProduto = float(input("Digite o preço do produto: R$ "))
 
 # Preço com desconto 
 preco_com_desconto = 0.9 *precoProduto

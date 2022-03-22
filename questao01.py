@@ -2,7 +2,7 @@
 
 PI = 3.141592
 
-raio = float(input("Digite o raio: ").strip())
+raio = float(input("Digite o raio: "))
 
 comprimento_circunferencia = 2 * PI * raio
 

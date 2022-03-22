@@ -1,7 +1,7 @@
 
-dividendo = int(input("Dividendo: ").strip())
+dividendo = int(input("Dividendo: "))
 
-divisor = int(input("Divisor: ").strip())
+divisor = int(input("Divisor: "))
 
-print("Resultado da divisão: %d" %(dividendo/divisor))
+print("Quociente da divisão: %d" %(dividendo/divisor))
 print("Resto da divisão: %d" %(dividendo%divisor))
