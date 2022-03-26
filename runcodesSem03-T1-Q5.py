@@ -1,4 +1,4 @@
 
-nivelDeEmpolgação = int(input())
+nivelDeEmpolgacao = int(input())
 
-print('G'+'o'*nivelDeEmpolgação +'l!' )
+print('G'+'o'*nivelDeEmpolgacao +'l!' )
